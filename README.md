@@ -2,7 +2,7 @@
 
 ## 🔍 **Introduction**
 - This **DOCUMENT IS 100% FACTUAL**, based on **REVERSE ENGINEERING**, and exposes the **TRUTH**. **[CLICK HERE](https://github.com/Toxy121/Retrac-Analysis)**
-- **ALL PROOF of their ADMISSIONS and ADDITIONAL EVIDENCE** supporting these claims can be found **[HERE]()**
+- **ALL PROOF of their ADMISSIONS and ADDITIONAL EVIDENCE** supporting these claims can be found **[HERE](https://github.com/RetracFN/Retrac-Document/blob/main/Virus%20Confirmation.md)**
 
 ---
 
