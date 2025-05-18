@@ -1,5 +1,3 @@
----
-
 ### 🧾 Retrac Owner Eccentric Admits the Truth  
 **"The anti-cheat dev planted a file grabber and stole 1H source code."**  
 > _We believe there’s far more happening behind the scenes. It’s likely that **all owners** were involved. There is strong suspicion that Random never actually left and is continuing his activity in secret._
