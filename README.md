@@ -1,4 +1,4 @@
-# 🔥 Retrac Exposé
+# 🔥 Retrac Exposed
 
 ## 🔍 Introduction
 This **DOCUMENT IS 100% FACTUAL**, based entirely on **REVERSE ENGINEERING**, private logs, and internal activity.  
