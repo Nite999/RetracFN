@@ -1,40 +1,84 @@
-![Image](https://github.com/user-attachments/assets/b745be57-7cfb-465a-8df9-285852385e36)
+# 🔥 Retrac Exposé
 
-## 🔍 **Introduction**
-- This **DOCUMENT IS 100% FACTUAL**, based on **REVERSE ENGINEERING**, and exposes the **TRUTH**. **[CLICK HERE](https://github.com/Toxy121/Retrac-Analysis)**
-- **ALL PROOF of their ADMISSIONS and ADDITIONAL EVIDENCE** supporting these claims can be found **[HERE](https://github.com/RetracFN/Retrac-Document/blob/main/Virus%20Confirmation.md)**
+## 🔍 Introduction
+This **DOCUMENT IS 100% FACTUAL**, based entirely on **REVERSE ENGINEERING**, private logs, and internal activity.  
+It exposes the **TRUTH** behind the Retrac team's shady operations.  
+
+📂 **ALL PROOF** including **admissions**, logs, code, and file evidence can be found in the `/images` and `/evidence` folders.
 
 ---
 
 ## 🤔 What Happened?
-Retrac hired a developer named **Random** to maintain their anti-cheat system. Despite his well-known history of code theft, hack development, and illegal activities, both past and present, Retrac chose to protect their game instead of addressing his shady background and taking precautions to ensure the community's safety.
+Retrac hired a developer known as **Random** to manage their anti-cheat system — despite his **well-known history** of:
+- Code theft  
+- Hack development  
+- Malware creation  
+- And other illegal activity  
 
-Behind the scenes, **Random** created a **file grabber** to steal users' files and personal information. Later, another Retrac owner, **Blurr**, publicly released this malicious file to over **170,000** players, which could have even more harmful features, potentially destroying computers and doing more than just stealing files.
+Instead of protecting their users, Retrac prioritized **numbers and revenue**, allowing Random to create a **malicious file grabber** that:
+- Stole users’ personal files
+- Logged sensitive data  
+- Was later **publicly distributed** by Retrac co-owner **Blurr** to **170,000+ players**  
+
+This malware had capabilities beyond spying — it could **destroy entire systems**.
 
 ---
 
 ## 📜 Retrac Owner History
 
-**Eccentric** *(formerly known as **"Zombie Man"**)*, the current owner of Retrac, has a shady history. He previously worked on a project called **FMod**, which was shut down after he **ADDED A VIRUS** into its launcher. This action led to the project’s shutdown shortly after he completely nuked the entire Discord server (***Can be Found in the Evidence Category Below***). His actions ruined the project for personal gain, obtaining thousands of dollars' worth of assets and more, the full extent of which is still unknown.
+### 🧑‍💻 Eccentric (a.k.a. Zombie Man)
+Current owner of Retrac, previously ran **FMod**, a now-defunct project:
+- Embedded a **virus** in FMod’s launcher  
+- **Nuked the Discord server**  
+- **Stole thousands in assets**  
+- Destroyed a working project for personal gain
 
-#### Evidence Against Eccentric:
-- **[Interrogation Video](https://www.youtube.com/watch?v=zHSNBqQAB4o):** FMod’s owner confronts Eccentric, who evasively responds with "Loads of Nitro," implying **Data Theft** and **Fraud**.
-- **[Server Nuke Footage](https://www.youtube.com/watch?v=n_pzL4rXhzY):** Proof of FMod’s Discord server being Nuked by **Eccentric** (*Owner of Retrac*).
-- **[Virus Proof](https://x.com/gmatrixgames/status/1672607940585353216):** **GMatrixGames** exposed the malicious activity by reverse-engineering the virus and providing clear proof of its harmful intent.
+### 📂 Evidence Against Eccentric:
+- 🎥 **Interrogation Footage** – FMod owner questions Eccentric about the virus  
+- 🔥 **Server Nuke Logs** – FMod Discord wiped by Eccentric himself  
+- 🦠 **Reverse-Engineered Virus** – Confirmed malicious by security researchers  
 
-(*FMod had over **3,000 concurrent players**, more than three times Retrac’s peak count.*)
-
-Eccentric’s virus targeted sensitive data, including billing information, Discord payment details, Epic Games sessions, and browser data. He also developed cheats, spread hate speech, deployed RATs (Remote Access Trojans), and stole Discord Nitro. His actions sabotaged legitimate projects for **personal gain** and impacted over **150,000** users.  
+> Note: FMod had over **3,000 concurrent players**, over 3x Retrac's peak.
 
 ---
 
-## 🚫 Why Retrac Is Not Safe
+## 🦠 Virus Capabilities
 
-Retrac knowingly allowed this virus to spread without implementing **any security measures**, making it a major **security threat**.
+The malware created by Eccentric and Random:
+- Targeted **Discord billing/payment data**
+- Hijacked **Epic Games sessions**
+- Scraped **browser credentials**
+- Installed **RATs (Remote Access Trojans)**
+- Stole **Discord Nitro**
+- Enabled **remote control** and data exfiltration
 
-They concealed the virus, refusing to issue any warnings or announcements, and prioritized their **reputation** and player count over user safety. Their primary motivations seem to be **money** and **fame**.
+---
 
-Given Eccentric’s history and his full access to Retrac’s launcher, source code, and servers, **Retrac is unsafe**.
+## 🚫 Why Retrac is NOT Safe
 
-In addition, they targeted a popular server, scraped its data, and destroyed over **two years of hard work**, causing significant financial damage, all without offering compensation. Their response?  
-**"Not our problem."**
+- 🛑 **Knowingly distributed** malware
+- 🚫 Refused to **warn players**
+- 🧢 Prioritized **clout and revenue**
+- 🔐 Took **no security precautions**
+- ❌ Offered **no compensation** to affected developers or users
+
+They even targeted and destroyed a competing server's community and work — **over two years of effort wiped**. Their reply?  
+> “Not our problem.”
+
+---
+
+## 📁 Proof & Screenshots
+
+Visual proof and technical analysis can be found in the `/images` and `/evidence` directories.  
+This includes:  
+- File grabber code  
+- Reversed malware logs  
+- Screenshots of server nukes  
+- Interrogation recordings  
+- Public admissions
+
+---
+
+## 📄 License
+
+This repository is shared under the **MIT License** for **educational and awareness purposes**.
